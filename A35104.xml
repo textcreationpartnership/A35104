@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for indempnitie to the English Protestants of the province of Munster in Ireland</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35104</idno>
+            <idno type="STC">Wing C7131</idno>
+            <idno type="STC">ESTC R37695</idno>
+            <idno type="EEBO-CITATION">17002826</idno>
+            <idno type="OCLC">ocm 17002826</idno>
+            <idno type="VID">105711</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105711)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1613:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for indempnitie to the English Protestants of the province of Munster in Ireland</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by William Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Tuesday August 1, 1654. Ordered by His Highness the Lord Protector and his council that this ordinance be forthwith printed and published. Henry Scobell, clerk of the council."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105711:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <p>AN ORDINANCE FOR INDEMPNITIE TO THE ENGLISH PROTESTANTS of the PROVINCE of <hi>M<g ref="char:V">Ʋ</g>NSTER</hi> IN <hi>IRELAND.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Tueſday Auguſt.</hi> 1. 1654.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by his Highneſs the Lord Protector, and his Council; That this <hi>Ordinance</hi> be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Re-printed by WILLIAM BLADEN. An. Dom. 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:105711:2"/>
+            <!-- PDF PAGE 79 -->
+            <pb facs="tcp:105711:2"/>
+            <!-- PDF PAGE 79 -->
+            <head type="illustration">
+               <figure>
+                  <figDesc>blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>AN ORDINANCE FOR INDEMPNITIE to the <hi>Engliſh</hi> Proteſtants of the Province of <hi>Munſter</hi> in <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas many <hi>Engliſh</hi> and <hi>Brittiſh</hi> Prote<g ref="char:EOLhyphen"/>ſtants in the Province of <hi>Munſter</hi> in <hi>Ireland,</hi> upon the defection of the Lords <hi>Ormond</hi> and <hi>Inchiquin,</hi> were ſedu<g ref="char:EOLhyphen"/>ced and drawn by the power and policie of the ſaid Lords to fol<g ref="char:EOLhyphen"/>low them in their trea<g ref="char:EOLhyphen"/>cherous revolt, where<g ref="char:EOLhyphen"/>of divers being ſenſi<g ref="char:EOLhyphen"/>ble of their offence, and retaining ſtill a good affe<g ref="char:EOLhyphen"/>ction to the intereſt of the Common-wealth of <hi>England,</hi> did give a real and eminent teſtimony thereof in their
+<pb n="2" facs="tcp:105711:3"/>
+               <!-- PDF PAGE 80 -->voluntary rendition of the Towns of <hi>Cork, Youghal, K<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ale Bandon,</hi> and divers Forts, Caſtles, and other Garriſons adjacent, and that at a time when the Ar<g ref="char:EOLhyphen"/>my under the Command of his Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector then Lord Lieuten. of <hi>Ireland,</hi> being at a great diſtance from them, and the winter ſeaſon rendered the acceſs thereof unto them improvable; By means of which rendition divers places of great ſtrength were gained without expence of bloud &amp; treaſure, and y<hi rend="sup">e</hi> neceſ<g ref="char:EOLhyphen"/>ſities of the Army ſupplyed by that plentiful Countrey, where many look and wounded Souldiers were tender<g ref="char:EOLhyphen"/>ly cheriſhed and provided for by the ſaid <hi>Brittiſh</hi> and <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Proteſtants; And divers others of the ſaid <hi>Brittiſh</hi> and <hi>E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gliſh</hi> Proteſtants did before the firſt of <hi>December,</hi> One thouſand, ſix hundred and fourty nine, ſubmit themſelves, and have ever ſince not onely lived peace<g ref="char:EOLhyphen"/>ably under the Protection of, and obedience to the Com<g ref="char:EOLhyphen"/>mon-wealth, but have by their large contributions to the ſupply of the Army there evidenced their ſence of du<g ref="char:EOLhyphen"/>ty and good affection to the ſame, and the inferior ſort of them, who continued under the command of the ſaid Earl of <hi>O<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ond</hi> and Lord <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>chiquin</hi> until neceſſity in<g ref="char:EOLhyphen"/>forced them to a ſubmiſſion, have ſince their ſaid ſub<g ref="char:EOLhyphen"/>miſſion done faithful ſervice to this Common-wealth againſt the Rebels there. His Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector taking into conſideration the conceſſions granted by his Highneſs to invite the Return of the ſaid Revol<g ref="char:EOLhyphen"/>ters to the obedience of the Parliament of the Common-wealth of <hi>England,</hi> and being deſirous y<hi rend="sup">e</hi> the ſame may be duly performed &amp; that all ſuch as were mis-led into that defection by miſrepreſentations from their Command<g ref="char:EOLhyphen"/>ers, or by their power over them were kept from a more early ſubmiſſion, might in reſpect of their ſervice &amp; faith<g ref="char:EOLhyphen"/>fulneſs ſince, taſt of ſome grace and favour; And to the end their perſons may be ſecure, their minds compoſed, and they may be encouraged to perſiſt in their fidelity and obedience, and themſelves, their wives and chil<g ref="char:EOLhyphen"/>dren be enabled to live, and be uſeful to the Common-wealth:
+<pb n="3" facs="tcp:105711:3"/>
+               <!-- PDF PAGE 80 -->Be it Ordained by His Highneſs by and with the advice and conſent of his Council, That all perſons Brittiſh and Proteſtants of, or in the Province of <hi>Mun<g ref="char:EOLhyphen"/>ſter</hi> in the Realm <hi>Ireland,</hi> ſhall be, and are hereby freed, acquitted and discharged of, and from all Queſtions, Suit, Plea, Demand, Forfeitures, Pains, Penal<g ref="char:EOLhyphen"/>ties, Mulcts, Corporal or Pecuniary Reſtraints, Impriſonment or Impriſonments, Puniſhment or Puniſhments, Trouble or Moleſtation whatſoever (other than is hereafter in this Ordinance expreſſed) for any Matter or Thing by them or any of them com<g ref="char:EOLhyphen"/>mitted or done by Sea or Land againſt the Parlia<g ref="char:EOLhyphen"/>ment or their Forces in the late War, or any of the for<g ref="char:EOLhyphen"/>mer Wars; and that for the matters aforeſaid, there ſhall be no Sequeſtration, Confiſcation, Fine, Penal<g ref="char:EOLhyphen"/>tie, Forfeiture or Puniſhment impoſed or continued upon them or any of them (otherwiſe than is in this Ordinance hereafter expreſſed) but the ſame ſhall be put in perpetual oblivion. And alſo that the Eſtates real and perſonal of all the Brittiſh and Proteſtants of, or in the Province of <hi>Munſter</hi> aforeſaid, (except as is hereaf<g ref="char:EOLhyphen"/>ter in this Ordinance excepted and provided) ſhall be and are hereby freed, discharged and acquitted of and from all Sequeſtrations, Confiſcations, Fines, Pe<g ref="char:EOLhyphen"/>nalties and Forfeitures whatſoever, for any Matter or Thing by them or any of them committed or done in the aforeſaid Wars, and be immediately reſtored to all lawful Rights, Freedoms, Priviledges and Immuni<g ref="char:EOLhyphen"/>ties as fully to all intents and purpoſes, as if they had made no defection, or committed or done any Crime, Matter or Thing againſt the Common-wealth of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> or the Authoritie thereof.</p>
+            <p>Provided, That this Ordinance or any thing here<g ref="char:EOLhyphen"/>in contained ſhall not extend to or give any Power, Right, Priviledge or Advantage to any the perſon or perſons herein concerned to have or recover any arrear or ſatisfaction of arrears due to him or them for his or their ſervice done on the behalf of the Common-wealth,
+<pb n="4" facs="tcp:105711:4"/>
+               <!-- PDF PAGE 81 -->before his or their defection under the Lords of <hi>Ormond</hi> and <hi>Inchiquin,</hi> ſuch onely excepted for whom expreſs pro<g ref="char:EOLhyphen"/>viſion is hereafter made in this Ordinance.</p>
+            <p>Provided likewiſe, And be it Ordained by the Autho<g ref="char:EOLhyphen"/>ritie aforeſaid, That all and every the perſon and per<g ref="char:EOLhyphen"/>ſons, who ſubmitted to the Authoritie and Protection of the Common-wealth of <hi>England</hi> before the firſt of <hi>De<g ref="char:EOLhyphen"/>cember</hi> One thouſand ſix hundred fourty and nine, but were not Inſtrumental in the rendition of the Gar<g ref="char:EOLhyphen"/>riſons aforeſaid, and have Eſtates (above all reprizes) in lands to the clear yearly value of four hundred pounds and upwards, according to the value of the ſaid Lands in the year One thouſand ſix hundred thirty eight, or in Goods, or in Goods and Chattles at this preſent to the value of eight thouſand pounds and up<g ref="char:EOLhyphen"/>wards, ſhall be lyable to ſatisfy and pay ſuch Fine or Fines as ſhall by perſons thereto authorized be im<g ref="char:EOLhyphen"/>poſed on them, within twelve Months after the ſeven and twentieth day of <hi>Iune</hi> One thouſand ſix hundred fif<g ref="char:EOLhyphen"/>tie and four.</p>
+            <p>Provided alſo, and be it Ordained, That all and every the perſon and perſons who continued in Arms againſt the Forces of the Common-wealth of <hi>England,</hi> or remained in obedience to the Enemy, after the firſt day of <hi>December</hi> One thouſand ſix hundred and fourty nine, having Eſtates in Lands to the clear yearly value (above all reprizes) of fifty pounds or upwards, accor<g ref="char:EOLhyphen"/>ding to the value the ſaid Lands were worth in the year One thouſand ſix hundred thirty eight<g ref="char:punc">▪</g> or at preſent in goods and Chattles to the value of five hundred pounds or upwards, ſhall be and are hereby liable to ſatisfy and pay ſuch fine or fines, as ſhall by perſons thereunto au<g ref="char:EOLhyphen"/>thorized be ſet and impoſed on them reſpectively, with<g ref="char:EOLhyphen"/>in twelve Months after the ſaid ſeven and twentieth day of <hi>Iune</hi> aforeſaid.</p>
+            <p>Provided likewiſe, That neither this Ordinance, nor any thing therein contained ſhall extend or give any benefit or advantage to any perſon or perſons therein
+<pb facs="tcp:105711:4"/>
+               <!-- PDF PAGE 81 -->
+               <pb facs="tcp:105711:5"/>
+               <!-- PDF PAGE 82 -->
+               <pb n="5" facs="tcp:105711:5"/>
+               <!-- PDF PAGE 82 -->concerned, who ſince their aforeſaid ſubmiſſion have acted or done any matter or thing in oppoſition to the Common-wealth of <hi>England</hi> or the Authority thereof.</p>
+            <p>And it is further Ordained and Declared by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That the Commiſſioners for ſtating Accompts in <hi>Ireland,</hi> named and appointed in an Act for ſtating and determining the Accompts of ſuch Officers and Souldiers as are or have been imployed in the ſer<g ref="char:EOLhyphen"/>vice of this Common-wealth in <hi>Ireland,</hi> ſhall be and are hereby impowred and required to ſtate all and every the Accompts of ſuch Officers and Souldiers for their Arrears grown due for ſervice before the ſaid Revolt or Defection, whoſe names ſhall be certified by and ac<g ref="char:EOLhyphen"/>cording to ſuch Qualifications and Directions as they ſhall receive from the Lord Deputy and Council in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> in that behalf. And the ſaid Lord Deputy and Council are hereby authorized and appointed to admit to this benefit, ſuch onely of the perſons included with<g ref="char:EOLhyphen"/>in the Conceſſions firſt above mentioned, as they (upon the beſt inquiry and information they can gain upon the place) ſhall finde to have been forward in or promoting of the ſaid return in <hi>Munſter</hi> to the obedience of this Common-wealth, and to lay down ſuch general rules, or Qualifications for the guidance of the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners of Accompts therein as they ſhall ſee cauſe. And the ſaid Commiſſioners for Accompts ſhall there<g ref="char:EOLhyphen"/>upon proceed to ſtate the Accompts of ſuch of the ſaid Officers and Souldiers, or compounding with them for the ſame in like manner as they are by the ſaid Act (Entituled, <hi>An Act for ſtating and determining the Ac<g ref="char:EOLhyphen"/>compts of ſuch Officers and Souldiers as are or have been imployed in the Service of this Common-wealth in Ireland</hi>) authorized to do for the arrears of all other Officers or Souldiers, who have conſtantly adhered to the Parli<g ref="char:EOLhyphen"/>ament, and to give forth unto them Debentures accor<g ref="char:EOLhyphen"/>dingly, any thing in the ſaid former Act for ſtating Ac<g ref="char:EOLhyphen"/>compts, or any other Act, Declaration, Ordinance or Order of Parliament to the contrary notwithſtan<g ref="char:EOLhyphen"/>ding.</p>
+            <pb n="6" facs="tcp:105711:6"/>
+            <!-- PDF PAGE 83 -->
+            <p>And be it further Ordained and Declared by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That ſuch of the ſaid Officers and Souldiers ſhall have and receive in ſatisfaction of their ſaid Arrears ſo ſtated, forfeited Lands of the Rebels in <hi>Ireland,</hi> in like manner, and upon the ſame terms as other Officers or Souldiers are or ſhall be appointed by any Act of Parliament to receive for their Arrears, grown due for ſervice before the nine and twentieth of <hi>Iune</hi> one thouſand ſix hundred fourty and nine.</p>
+            <p>Provided always, That no Officer or Souldier ſhall be capable of having or receiving his Arrears as aforeſaid, who hath been in hoſtilitie againſt the Par<g ref="char:EOLhyphen"/>liament, or adhered to the Enemie ſince the firſt day of <hi>December</hi> one thouſand ſix hundred fourty and nine, or hath not manifeſted conſtant good affection to the Parli<g ref="char:EOLhyphen"/>ament ſince the return of the ſaid Garriſons and Forts in the Province of <hi>Munſter</hi> to their due obedience, or who hath been caſhiered and ſentenced by a Court-Martial to loſe his Arrears.</p>
+            <p>Provided alſo, That this Ordinance or any thing therein contained ſhall not extend to the taking away any Limitations or Reſtrictions Directed or Provided by the Act for ſtating Accompts, concerning the Certifi<g ref="char:EOLhyphen"/>cats or Vouchers to be produced to evidence any Ar<g ref="char:EOLhyphen"/>rears, nor to the making void any penalty by the ſaid Act laid on any that ſhall make, procure or produce any falſe Certificate or Oath, thereby fraudulently to demand Arrears in prejudice of the Common-wealth.</p>
+            <p>Excepted and always reſerved out of this preſent Ordinance and benefit thereof, All and every the per<g ref="char:EOLhyphen"/>ſon or perſons who are by name exempted from pardon for life or Eſtate in one Act of Parliament, Entituled, <hi>An Act for the ſettling of Ireland,</hi> bearing date the twelfth day of <hi>Auguſt,</hi> one thouſand ſix hundred fifty and two, or who have not ſince the tenth of <hi>May,</hi> One thouſand ſix hundred and fifty, lived peaceably and inoffenſively under the Protection of this Common-wealth.</p>
+            <pb n="7" facs="tcp:105711:6"/>
+            <!-- PDF PAGE 83 -->
+            <p>And furthermore, It is Ordained and Declared by the Authoritie aforeſaid, That the Indempnity by this Ordinance granted by the General Words, Clauſes, and Sentences before rehearſed, ſhall be reputed, al<g ref="char:EOLhyphen"/>lowed and taken in all manner of Courts of Iuſtice, or elſewhere, moſt beneficial and available to all and ſin<g ref="char:EOLhyphen"/>gular the perſons to whom the ſame is hereby granted, and to every of them in all things not in this preſent Ordinance excepted, without any ambiguity, queſtion, or other delay to be made, pleaded or objected by any perſon or perſons, for or on the behalf of the Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Tueſday, August,</hi> 1. 1654.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Hen: Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+            <pb n="6" facs="tcp:105711:7"/>
+            <!-- PDF PAGE 84 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:105711:7"/>
+            <!-- PDF PAGE 84 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
